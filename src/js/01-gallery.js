@@ -23,7 +23,7 @@ function galleryItemHTML(galleryItem) {
               <a class="gallery__link" href="${galleryItem.original}">
                 <img
                   class="gallery__image"
-                  src="${galleryItem.preview}"
+                  src="${galleryItem.preview1}"
                   alt="${galleryItem.description}"
                 />
               </a>
